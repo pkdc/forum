@@ -5,6 +5,15 @@ So I was in a team of 2, working with another groupmate. He was mainly responsib
 I was responsible for all of the database operations, the login system, the post and comments processing and displaying.
 At the end, our group has decided to submit my team's code.
 
+There are 5 optionals for this project:
+advanced-features
+authentication
+image-upload
+moderation
+security
+
+And I am responsible for the security optional. (See forum-security repo)
+
 forum
 Objectives
 This project consists in creating a web forum that allows :
