@@ -1,18 +1,29 @@
 # forum
 
 I am in a group of 5 for this project. We split into two teams to do this, because we think there will be too little to do for each of us if we don't split.
+
 So I was in a team of 2, working with another groupmate. He was mainly responsible for the website layout, CSS, and the likes and dislikes, and the category.
+
 I was responsible for all of the database operations, the login system, the post and comments processing and displaying.
+
 At the end, our group has decided to submit my team's code.
 
+
 There are 5 optionals for this project:
+
 advanced-features
+
 authentication
+
 image-upload
+
 moderation
+
 security
 
 And I am responsible for the security optional. (See forum-security repo)
+
+
 
 forum
 Objectives
